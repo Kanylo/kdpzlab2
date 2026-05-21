@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PoultryFarm.csproj" />
+  <Project Path="PoultryFarm.Tests/PoultryFarm.Tests.csproj" />
+</Solution>
